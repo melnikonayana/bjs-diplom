@@ -1,4 +1,4 @@
-class MoneyManager {
+ class MoneyManager {
   constructor() {
     this.addMoneyForm = document.getElementById('addMoney');
     this.conversionMoneyForm = document.getElementById('conversionMoney');
